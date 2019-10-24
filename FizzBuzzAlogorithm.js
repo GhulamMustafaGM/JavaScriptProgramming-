@@ -15,4 +15,4 @@ function fizzBuzzWork(Number)
   }
 }
 
-fizzBuzzWork(20);
+fizzBuzzWork(30);
