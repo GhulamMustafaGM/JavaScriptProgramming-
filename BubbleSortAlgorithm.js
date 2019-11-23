@@ -14,4 +14,4 @@ function BubbleSortWork(ValueArray) {
     return ValueArray;
 }
  
-BubbleSortWork([8000, 5000, 44, 303, 5, 646, 150, 884, 298, 76, 19, 3, 1]);;
+BubbleSortWork([8000, 5000, 44, 303, 5, 646, 150, 884, 298, 76, 19, 3, 1]);
